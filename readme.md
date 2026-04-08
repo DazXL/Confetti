@@ -3,7 +3,6 @@
 This project is a lightweight OBS browser overlay for animated confetti effects. Each HTML file can load a different confetti style.
 
 ### [Download it here](https://github.com/DazXL/Confetti/releases)
-### [Samples in pages](https://dazxl.github.io/Confetti/)
 
 ## Setup
 
