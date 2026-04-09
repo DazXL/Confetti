@@ -11,6 +11,7 @@ This project is a lightweight OBS browser overlay for animated confetti effects.
 3. In OBS, add a new Browser Source.
 4. Enable Local File.
 5. Browse to the folder and choose one of the HTML files.
+6. Check both "Shut down source when not visible" and "Refresh browser when scene become active". (you may have to scroll down a bit)
 
 ## Notes
 
